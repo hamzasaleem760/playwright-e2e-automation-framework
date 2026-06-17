@@ -1,0 +1,23 @@
+{
+  "name": "playwright-e2e-automation-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzasaleem760/playwright-e2e-automation-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hamzasaleem760/playwright-e2e-automation-framework/issues"
+  },
+  "homepage": "https://github.com/hamzasaleem760/playwright-e2e-automation-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^25.9.3"
+  }
+}
